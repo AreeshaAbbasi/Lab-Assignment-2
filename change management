@@ -6,7 +6,6 @@
     Matcher m = p.matcher(text);
     System.out.print("Identifiers are:");
        while(m.find()){
-            count++;
-            System.out.print(m.group(0)+",");
+            stupid
             
         }
